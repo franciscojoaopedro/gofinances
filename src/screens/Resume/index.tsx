@@ -1,6 +1,6 @@
 import React from "react"
 import {Container,Header,Title} from "./styles"
-import {HistoryCard} from "../../components/HistoryCardd"
+import {HistoryCard} from "../../components/HistoryCard"
 export function Resume(){
     return(
         <Container>
